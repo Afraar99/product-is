@@ -1,6 +1,0 @@
-{
-  "associationName": "User Registration Workflow Association",
-  "operation": "ADD_USER",
-  "workflowId": "invalid-id",
-  "isEnabled": true
-}

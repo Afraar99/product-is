@@ -1,7 +1,0 @@
-[
-  {
-    "operation": "REPLACE",
-    "path": "/homeRealmIdentifier",
-    "value": "google"
-  }
-]

@@ -1,9 +1,0 @@
-{
-  "actionStatus": "INCOMPLETE",
-  "operations": [
-    {
-      "op": "redirect",
-      "url": "testUrl"
-    }
-  ]
-}

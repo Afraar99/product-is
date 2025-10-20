@@ -1,7 +1,0 @@
-[
-  {
-    "operation": "REPLACE",
-    "path": "/status",
-    "value": "DISABLED"
-  }
-]

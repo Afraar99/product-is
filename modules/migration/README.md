@@ -1,1 +1,0 @@
-Moved the migration client code to [identity-migration-resources](https://github.com/wso2-extensions/identity-migration-resources)

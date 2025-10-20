@@ -1,8 +1,0 @@
-{
-  "displayName": "Updated Scope one",
-  "description": "Updated sample scope one",
-  "claims": [
-    "gender",
-    "email"
-  ]
-}
